@@ -8,6 +8,9 @@
 
 
 
+
+
+
     <artifactId>spring-boot-send-email</artifactId>
     <packaging>jar</packaging>
     <name>Spring Boot Send Email</name>
